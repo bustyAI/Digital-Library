@@ -3,3 +3,4 @@ Designed a library check out system that allows users to login or sign up if not
 
 ## Link to Project [Digital Library Project](https://replit.com/join/gqrduvmymn-oscar120646)
 
+## Documentation for Project [Documentation](https://github.com/bustyAI/Digital-Library/blob/main/Final_Project_-_Library_System.pdf)
